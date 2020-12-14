@@ -5,7 +5,7 @@
 * JANGAN MODAL NAMA DOANG BOSQ
 * HARGAILAH YG MEMBUAT SCRIPT INI BOSQ
 * JANGAN UBAH-UBAH INFO!!!
-* ARIS187 ID
+* RivVerBot ID
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
 const qrcode = require("qrcode-terminal")
@@ -18,7 +18,7 @@ const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Jul
 const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
-    A187: '🙆RivVerBot🙆',
+    RivVerBot: '🙆RivVerBot🙆',
     instagram: 'rahasia',
     nomer: 'wa.me/6282136699278',
     aktif: '24 JAM',
@@ -28,7 +28,7 @@ const config = {
     waktu: time
 }
 
-const { A187, tanggal, waktu, instagram, whatsapp, youtube, nomer, aktif, ontime } = config
+const { RivVerBot, tanggal, waktu, instagram, whatsapp, youtube, nomer, aktif, ontime } = config
 
 const
 {
@@ -71,7 +71,6 @@ const {
     wiki,
     ytdl,
     bucin,
-    cersex,
     cerpen,
     puisi1,
     puisi2,
@@ -90,11 +89,9 @@ const {
     spamgmail,
     covidcountry,
     infoanime,
-    gay,
     ytmp3,
     ssweb,
     infogempa,
-    indohot,
     loli,
     ttp,
     map,
